@@ -14,12 +14,10 @@
  
  
 <div>
-<img height="50px"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img height= "50px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img height="50px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img height= "50px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</div>
- 
+<img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div><br>
  
 - 🔭 I’m currently working on suport
 - 🤓 I’m currently learning Javascript
@@ -28,5 +26,10 @@
 - 😄 Pronouns: he/his
 - 🤡 Fun fact: 
 - 🦆
+ 
+<hr>
 
- ![snake animation](https://github.com/GuiAlvesdev) 
+<a href="https://www.linkedin.com/in/guilherme-alves-163783156" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+ ![Snake animation](https://github.com/GuiAlvesdev/blob/output/github-contribution-grid-snake.svg) 
