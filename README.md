@@ -28,3 +28,5 @@
 - 😄 Pronouns: he/his
 - 🤡 Fun fact: 
 - 🦆
+
+ ![snake animation](https://github.com/GuiAlvesdev) 
