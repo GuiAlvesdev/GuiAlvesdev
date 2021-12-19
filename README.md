@@ -9,6 +9,7 @@
  
 </div>
 
+![GuiAlvesdev](https://github-readme-stats.vercel.app/api?username=GuiAlvesdev&hide=contribs,prs)
  
 </div>
  
