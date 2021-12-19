@@ -1,12 +1,13 @@
 <h1> Olá sou o Guilherme
 
-![Webp net-gifmaker](https://user-images.githubusercontent.com/72584502/146660538-1ea0e168-514a-4b8d-bbc7-e57ab7a3d440.gif)
+
+![Webp net-gifmaker](https://user-images.githubusercontent.com/72584502/146660651-0aa772c7-9ad5-4bff-9ed4-b5a7051fbed5.gif )
 
  
 <h2>😳Bem vindo !! ao meu perfil, aproveite a jornada espero te ajudar de alguma forma</h2>
 <h2>😳 Welcome my profile enjoy enjoy the journey,I hope to help you somehow</h2>
  
-<div>
+</div>
 
  
 </div>
