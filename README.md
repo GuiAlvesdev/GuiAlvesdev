@@ -1,7 +1,7 @@
-<h1> Olá sou o Guilherme
+<h1> Olá sou o Guilherme <br>
 
+<img src="https://github.com/GuiAlvesdev/GuiAlvesdev/blob/main/gifimage.gif" heigth="300px" width="300px"/>
 
-![Webp net-gifmaker](https://user-images.githubusercontent.com/72584502/146660651-0aa772c7-9ad5-4bff-9ed4-b5a7051fbed5.gif )
 
  
 <h2>😳Bem vindo !! ao meu perfil, aproveite a jornada espero te ajudar de alguma forma</h2>
@@ -21,7 +21,7 @@
 <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div><br>
  
-- 🔭 I’m currently working on suport
+- 🔭 I’m currently working on it suport
 - 🤓 I’m currently learning Javascript
 - 🤔 I’m looking for help with design ui/ux
 - 💬 Ask me about my favorite film
