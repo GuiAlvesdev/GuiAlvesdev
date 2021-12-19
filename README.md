@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1> Olá sou o Guilherme
+<h2>😳Bem vindo !! ao meu perfil, aproveite a jornada espero te ajudar de alguma forma</h2>
+<h2>😳 Welcome my profile enjoy enjoy the journey,I hope to help you somehow</h2>
+ 
 
-<!--
-**GuiAlvesdev/GuiAlvesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on suport
+- 🤓 I’m currently learning Javascript
+- 🤔 I’m looking for help with design ui/ux
+- 💬 Ask me about my favorite film
+- 😄 Pronouns: he/his
+- 🤡 Fun fact: 
+- 🦆
