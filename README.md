@@ -1,9 +1,5 @@
 <h1> Olá sou o Guilherme <br>
 
-<img src="https://github.com/GuiAlvesdev/GuiAlvesdev/blob/main/gifimage.gif" heigth="300px" width="300px"/>
-
-
- 
 <h2>😳Bem vindo !! ao meu perfil, aproveite a jornada espero te ajudar de alguma forma</h2>
 <h2>😳 Welcome my profile enjoy enjoy the journey,I hope to help you somehow</h2>
  
@@ -39,4 +35,5 @@
 ![Snake animation](https://github.com/GuiAlvesdev/GuiAlvesdev/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+<img src="https://github.com/GuiAlvesdev/GuiAlvesdev/blob/main/gifimage.gif" heigth="200px" width="200px"/>
 
