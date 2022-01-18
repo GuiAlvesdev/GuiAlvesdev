@@ -35,5 +35,5 @@
 ![Snake animation](https://github.com/GuiAlvesdev/GuiAlvesdev/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<img src="https://github.com/GuiAlvesdev/GuiAlvesdev/blob/main/gifimage.gif" heigth="200px" width="200px"/>
+<img src="https://github.com/GuiAlvesdev/GuiAlvesdev/blob/main/GIFPAL-20220118001134.gif" heigth="200px" width="200px"/>
 
