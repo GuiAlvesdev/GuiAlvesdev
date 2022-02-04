@@ -13,10 +13,10 @@
  
  
 <div>
-<img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Gui-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img  alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img  alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img  alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img  alt="Gui-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div><br>
  
 - 🔭 I’m currently working on it-suport
@@ -35,5 +35,7 @@
 ![Snake animation](https://github.com/GuiAlvesdev/GuiAlvesdev/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<img align="rigth" src="https://github.com/GuiAlvesdev/GuiAlvesdev/blob/main/GIFPAL-20220118001134.gif" heigth="200px" width="200px"  />
+<div align="center">
+<img class="profile" src="https://github.com/GuiAlvesdev/GuiAlvesdev/blob/main/GIFPAL-20220118001134.gif" heigth="200px" width="200px"  />
+</div>
 
