@@ -19,13 +19,13 @@
 <img align="center" alt="Gui-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div><br>
  
-- 🔭 I’m currently working on it suport
+- 🔭 I’m currently working on it-suport
 - 🤓 I’m currently learning Javascript
 - 🤔 I’m looking for help with design ui/ux
-- 💬 Ask me about my favorite film
+- 💬 Ask me about my favorite food
 - 😄 Pronouns: he/his
-- 🤡 Fun fact: 
-- 🦆
+- 🤡 my favorites film is the joker and batman films
+- 🦆 
  
 <hr>
 
