@@ -12,10 +12,11 @@
  
  
 <div>
-<img  alt="Gui-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img  alt="Gui-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img  alt="Gui-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img  alt="Gui-python" height="40" width="40" src="https://img.icons8.com/fluency/96/000000/python.png"/>
+<img  alt="Gui-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img  alt="Gui-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img  alt="Gui-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img  alt="Gui-python" height="60" width="60" src="https://img.icons8.com/fluency/96/000000/python.png"/>
+<img  alt="Gui-php"  height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div><br>
  
 - 🔭 I’m currently working on it-suport
