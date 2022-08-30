@@ -1,6 +1,7 @@
 <h1> Hi Iam Guilherme Alves dev Front-End <br>
 
-<h2>😳 Welcome my profile enjoy enjoy the journey,I hope to help you somehow</h2>
+
+<h2> 🧙 Welcome my profile enjoy enjoy the journey,I hope to help you somehow</h2>
  
 </div>
 
@@ -20,9 +21,9 @@
 </div><br>
  
 - 🔭 I’m currently working on it-suport
-- 🤓 I’m currently learning Javascript
-- 🤔 I’m looking for help with design ui/ux
-- 💬 Ask me about my favorite food
+- 🤓 I’m currently learning Java
+- 🤔 I’m looking for help with React-js
+- 💬 ask me my favorite serie
 - 😄 Pronouns: he/his
 - 🤡 my favorites film is the joker and batman films
 - 🍻 Lets Drink
@@ -36,6 +37,6 @@
 </div>
 
 <div align="center">
-<img class="profile" src="https://github.com/GuiAlvesdev/GuiAlvesdev/blob/main/GIFPAL-20220118001134.gif" heigth="200px" width="200px"  />
+<img class="profile" src="https://github.com/GuiAlvesdev/GuiAlvesdev/blob/main/icekinggif.gif" heigth="400px" width="400px"  />
 </div>
 
