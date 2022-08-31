@@ -1,13 +1,8 @@
-<h1> Hi Iam Guilherme Alves dev Front-End <br>
+<h1> Hi, i am Guilherme Alves Dev Front-end/web, Nice to Meet You 🤙</h1>
 
-
-<h2> 🧙 Welcome my profile enjoy enjoy the journey,I hope to help you somehow</h2>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FFFAFA&background=4169E1E0&center=true&vCenter=true&width=480&lines=welcome+stranger+%F0%9F%A7%99;enjoy+your+journey+%F0%9F%9B%B8)](https://git.io/typing-svg)
  
-</div>
 
-![GuiAlvesdev](https://github-readme-stats.vercel.app/api?username=GuiAlvesdev&hide=contribs,prs)
- 
-</div>
  
  
  
