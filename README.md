@@ -34,6 +34,6 @@
 </div>
 
 <div align="center">
-<img class="profile" src="https://github.com/GuiAlvesdev/GuiAlvesdev/blob/main/icekinggif.gif" heigth="400px" width="400px"  />
+<img class="profile" src="https://github.com/GuiAlvesdev/GuiAlvesdev/blob/main/milho.jpeg" heigth="400px" width="400px"  />
 </div>
 
