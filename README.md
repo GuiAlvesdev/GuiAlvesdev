@@ -14,11 +14,11 @@
 </div><br>
  
 - 🔭 I’m dont work actualy.
-- 🤓 I’m currently learning Java ☕
-- 🤔 I’m looking for help with React-js
-- 💬 ask me my favorite serie
+- 🤓 I’m currently learning Java and React ☕
+- 🤔 I’m looking for help with Spring Boot Framework
+- 💬 ask me my favorite book
 - 😄 Pronouns: he/his
-- 🍻 Lets Drink 
+- 🍻 Lets Drink coffe or beer
  
 <hr>
 
