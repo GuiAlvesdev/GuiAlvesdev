@@ -14,7 +14,7 @@
 </div><br>
  
 - 🔭 I’m dont work actualy.
-- 🤓 I’m currently learning Java and React ☕
+- 🤓 I’m currently learning Java and Angular ☕
 - 🤔 I’m looking for help with Spring Boot Framework
 - 💬 ask me my favorite book
 - 😄 Pronouns: he/his
