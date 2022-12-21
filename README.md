@@ -16,12 +16,13 @@
 <img  alt="Gui-angular" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img  alt="Gui-php"  height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img  alt="Gui-azure"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+ <img alt="Gui-spring"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div><br>
  
 
 
- - 🤓 I’m currently learning Java and Angular ☕
- - 🤔 I’m looking for help with Angualar 15 Framework
+ - 🤓 I’m currently learning Angular/typescript ☕
+ - 🤔 I’m looking for help with Angular 15 Framework
  - 💬 ask me my favorite book
  - 😄 Pronouns: he/his
  - 🍻 Lets Drink coffe or beer
