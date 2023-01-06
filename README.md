@@ -3,8 +3,8 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FFFAFA&background=4169E1E0&center=true&vCenter=true&width=480&lines=welcome+stranger+%F0%9F%A7%99;enjoy+your+journey+%F0%9F%9B%B8)](https://git.io/typing-svg)
 
 
- 
- ![GuiAlvesdev](https://github-readme-stats.vercel.app/api?username=GuiAlvesdev&hide=contribs,prs)
+![Guilherme Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiAlvesdev&show_icons=true&theme=transparent)
+
 
   </div>
  
