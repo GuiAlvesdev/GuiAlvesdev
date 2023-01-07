@@ -30,8 +30,9 @@
 
 <hr>
 
-<a href="https://www.linkedin.com/in/guilherme-alves-163783156" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-alves-163783156" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/eoguibs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://guilhermealvesdev.com.br/"  target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 
 ![Snake animation](https://github.com/GuiAlvesdev/GuiAlvesdev/blob/output/github-contribution-grid-snake.svg)
 </div>
