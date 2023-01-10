@@ -24,7 +24,7 @@
 
  - 🤓 I’m currently learning Angular/typescript ☕
  - 🤔 I’m looking for help with Angular 15 Framework
- - 💬 ask me my favorite book
+ - 💬 my favourite language is Java 
  - 🍻 Lets Drink coffe
 
 
