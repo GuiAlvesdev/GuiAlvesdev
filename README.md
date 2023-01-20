@@ -23,7 +23,7 @@
 
 
  - 🤓 I’m currently learning Angular/typescript ☕
- - 🤔 I’m looking for help with Angular 15 Framework
+ - 🤔 I’m looking for help with Angular 
  - 💬 my favourite language is Java 
  - 🍻 Lets Drink coffe
 
